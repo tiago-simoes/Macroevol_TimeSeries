@@ -1,0 +1,11 @@
+Clade,Max_Age,Min_Age,Median_Age,Div_Onset_Max,Div_Onset_Min,Div_Offset_Max,Div_Offset_Min,Disp_Onset_Max,Disp_Onset_Min,Disp_Offset_Max,Disp_Offset_Min,Rate_Onset_Max,Rate_Onset_Min,Rate_Offset_Max,Rate_Offset_Min,Div2_Onset_Max,Div2_Onset_Min,Div2_Offset_Max,Div2_Offset_Min,Rate2_Onset_Max,Rate2_Onset_Min,Rate2_Offset_Max,Rate2_Offset_Min
+Acanthomorpha,181,145,163,12,10,0.3,0.3,150.9,135,100,90,,,,,,,,,,,,
+Tetrapoda (stem),391,389,390,319.5,310,305,290,,,,,377.7,377.7,360,355,,,,,,,,
+Archosauromorpha (stem),274,260,267,255.7,255.5,240.7,240.4,252.2,251.7,216.3,215.9,267.7,267.7,235.5,225.5,,,,,,,,
+Dinosauria (early),251.2,237,244.1,214.7,205,189.7,185,238.2,237.8,150,150,251.2,237,218.8,212.8,222,175,125,102.3,,,,
+Theropoda (non-avian),242,230,236,221.5,221.3,195.6,194.5,224.6,224.4,193.6,193.4,242,230,208.5,208.5,,,,,,,,
+Aves (stem),168,150,159,150,132,132,127,,,,,152.6,152.6,133.9,129.9,,,,,,,,
+Aves (crown),96,86,91,66,63,60,55,66.8,66.8,1.2,1.2,70.8,70.5,63.7,63.5,,,,,78,77.8,75.1,70
+Lepidosauria,262,251,256.5,88.5,79.5,75,55,61,61,0,0,190,180,180,170,,,,,177.1,177.1,167,167
+Mammalia (early),210,190,200,200,171.9,166.1,148,187.5,187.2,125.5,109.6,200.1,199.8,162.7,161.7,200.3,190,190,170,,,,
+Placentalia,83.3,77,80.15,72.4,72,1.1,1.1,65,63.3,2.5,2.5,79.6,68.5,67,62,,,,,,,,

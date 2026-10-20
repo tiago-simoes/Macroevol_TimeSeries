@@ -1,0 +1,64 @@
+Group,Clade,Extinction_event,extinction_age(Ma),Parameter,Data_type,Agreement,ONSET_Best model,OFFSET_Best model
+vertebrates,Acanthomorpha,K-Pg,66,phenotypic_disparity,,offset differs,clade origin,clade origin
+vertebrates,Acanthomorpha,K-Pg,66,phenotypic_rate,,na (no data),na,na
+vertebrates,Acanthomorpha,K-Pg,66,taxonomic_diversity,,consistent,clade origin,clade origin
+invertebrates,Ammonoidea,end-Devoninan (Famennian),359,phenotypic_disparity,,offset differs,SEG,neither*
+invertebrates,Ammonoidea,end-Devoninan (Famennian),359,phenotypic_rate,,na (no data),na,na
+invertebrates,Ammonoidea,end-Devoninan (Famennian),359,taxonomic_diversity,,offset differs,neither*,neither*
+invertebrates,Ammonoidea,end-Devoninan (Frasnian),374,phenotypic_disparity,,consistent,SEG,PELT
+invertebrates,Ammonoidea,end-Devoninan (Frasnian),374,phenotypic_rate,,na (no data),na,na
+invertebrates,Ammonoidea,end-Devoninan (Frasnian),374,taxonomic_diversity,,consistent,neither*,neither*
+vertebrates,Archosauromorpha_stem,End-Permian,251.9,phenotypic_disparity,,onset and offset differ,clade origin,clade origin
+vertebrates,Archosauromorpha_stem,End-Permian,251.9,phenotypic_rate,,consistent,clade origin,clade origin
+vertebrates,Archosauromorpha_stem,End-Permian,251.9,taxonomic_diversity,,offset differs,clade origin,clade origin
+vertebrates,Aves_crown,K-Pg,66,phenotypic_disparity,,onset differs,SEG,no offset
+vertebrates,Aves_crown,K-Pg,66,phenotypic_rate,continuous data (LMM),offset differs,SEG,SEG*
+vertebrates,Aves_crown,K-Pg,66,phenotypic_rate,continuous data (GMM),offset differs,SEG,PELT
+vertebrates,Aves_crown,K-Pg,66,taxonomic_diversity,,consistent,neither*,neither*
+invertebrates,Brachiopoda_Athyridida,End-Permian,251.9,phenotypic_disparity,,consistent,SEG,PELT
+invertebrates,Brachiopoda_Athyridida,End-Permian,251.9,phenotypic_rate,,na (no data),na,na
+invertebrates,Brachiopoda_Athyridida,End-Permian,251.9,taxonomic_diversity,,consistent,SEG,PELT
+invertebrates,Brachiopoda_Rhynchonellida,End-Permian,251.9,phenotypic_disparity,,onset differs,SEG,PELT
+invertebrates,Brachiopoda_Rhynchonellida,End-Permian,251.9,phenotypic_rate,,na (no data),na,na
+invertebrates,Brachiopoda_Rhynchonellida,End-Permian,251.9,taxonomic_diversity,,offset differs,SEG,PELT
+invertebrates,Brachiopoda_Spiniferida,End-Permian,251.9,phenotypic_disparity,,onset differs,SEG,PELT
+invertebrates,Brachiopoda_Spiniferida,End-Permian,251.9,phenotypic_rate,,na (no data),na,na
+invertebrates,Brachiopoda_Spiniferida,End-Permian,251.9,taxonomic_diversity,,offset differs,SEG,PELT
+invertebrates,Brachiopoda_Terebratuliida,End-Permian,251.9,phenotypic_disparity,,onset differs,SEG,no offset
+invertebrates,Brachiopoda_Terebratuliida,End-Permian,251.9,phenotypic_rate,,na (no data),na,na
+invertebrates,Brachiopoda_Terebratuliida,End-Permian,251.9,taxonomic_diversity,,consistent,SEG,PELT
+invertebrates,Crinoidea_Diplobathrida,end-Ordovician,443,phenotypic_disparity,,consistent,SEG,PELT
+invertebrates,Crinoidea_Diplobathrida,end-Ordovician,443,phenotypic_rate,,na (no data),na,na
+invertebrates,Crinoidea_Diplobathrida,end-Ordovician,443,taxonomic_diversity,,consistent,SEG,SEG*
+invertebrates,Crinoidea_Eucladida,end-Devoninan (Famennian),359,phenotypic_disparity,,too few points,too few points,too few points
+invertebrates,Crinoidea_Eucladida,end-Devoninan (Famennian),359,phenotypic_rate,,onset differs,PELT*,PELT
+invertebrates,Crinoidea_Eucladida,end-Devoninan (Famennian),359,taxonomic_diversity,,consistent,SEG,PELT
+invertebrates,Crinoidea_Eucladida,end-Ordovician,443,phenotypic_disparity,,consistent,PELT*,no offset
+invertebrates,Crinoidea_Eucladida,end-Ordovician,443,phenotypic_rate,,offset differs,SEG,PELT
+invertebrates,Crinoidea_Eucladida,end-Ordovician,443,taxonomic_diversity,,consistent,PELT*,PELT
+vertebrates,Dinosauria_early,end-Triassic,201.4,phenotypic_disparity,,onset and offset differ,SEG,SEG*
+vertebrates,Dinosauria_early,end-Triassic,201.4,phenotypic_rate,,consistent,SEG,PELT
+vertebrates,Dinosauria_early,end-Triassic,201.4,taxonomic_diversity,PyRate,offset differs,SEG,PELT
+vertebrates,Dinosauria_early,end-Triassic,201.4,taxonomic_diversity,FBDD,onset and offset differ,SEG,PELT
+invertebrates,Echinoidea_Irregularia,end-Triassic,201.4,phenotypic_disparity,,onset differs,clade origin,clade origin
+invertebrates,Echinoidea_Irregularia,end-Triassic,201.4,phenotypic_rate,,offset differs,clade origin,clade origin
+invertebrates,Echinoidea_Irregularia,end-Triassic,201.4,taxonomic_diversity,,onset differs,clade origin,clade origin
+invertebrates,Eurypterida,end-Devoninan (Frasnian),374,phenotypic_disparity,,offset differs,SEG,PELT
+invertebrates,Eurypterida,end-Devoninan (Frasnian),374,phenotypic_rate,,na (no data),na,na
+invertebrates,Eurypterida,end-Devoninan (Frasnian),374,taxonomic_diversity,,consistent,SEG*,PELT
+invertebrates,Eurypterida,end-Ordovician,443,phenotypic_disparity,,consistent,SEG,neither*
+invertebrates,Eurypterida,end-Ordovician,443,phenotypic_rate,,na (no data),na,na
+invertebrates,Eurypterida,end-Ordovician,443,taxonomic_diversity,,consistent,SEG,PELT
+vertebrates,Mammalia_early,end-Triassic,201.4,phenotypic_disparity,,consistent,clade origin,clade origin
+vertebrates,Mammalia_early,end-Triassic,201.4,phenotypic_rate,,onset and offset differ,clade origin,clade origin
+vertebrates,Mammalia_early,end-Triassic,201.4,taxonomic_diversity,,consistent,clade origin,clade origin
+vertebrates,Mammalia_early,end-Triassic,201.4,taxonomic_diversity,BDD,offset differs,clade origin,clade origin
+vertebrates,Placentalia,K-Pg,66,phenotypic_disparity,,onset differs,clade origin,clade origin
+vertebrates,Placentalia,K-Pg,66,phenotypic_rate,,consistent,clade origin,clade origin
+vertebrates,Placentalia,K-Pg,66,taxonomic_diversity,,onset and offset differ,clade origin,clade origin
+vertebrates,Tetrapoda_stem,end-Devoninan (Famennian),359,phenotypic_disparity,,offset differs,SEG,PELT
+vertebrates,Tetrapoda_stem,end-Devoninan (Famennian),359,phenotypic_rate,,consistent,SEG,PELT
+vertebrates,Tetrapoda_stem,end-Devoninan (Famennian),359,taxonomic_diversity,,onset differs,clade origin,clade origin
+invertebrates,Trilobita,end-Ordovician,443,phenotypic_disparity,,offset differs,SEG,PELT
+invertebrates,Trilobita,end-Ordovician,443,phenotypic_rate,,na (no data),na,na
+invertebrates,Trilobita,end-Ordovician,443,taxonomic_diversity,,offset differs,SEG,PELT

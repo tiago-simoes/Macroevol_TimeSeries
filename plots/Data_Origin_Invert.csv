@@ -1,0 +1,7 @@
+Clade,Max_Age,Min_Age,Median_Age,Div_Onset_Max,Div_Onset_Min,Div_Offset_Max,Div_Offset_Min,Disp_Onset_Max,Disp_Onset_Min,Disp_Offset_Max,Disp_Offset_Min,Rate_Onset_Max,Rate_Onset_Min,Rate_Offset_Max,Rate_Offset_Min
+Bivalvia,538,531,534.5,488.8,483.9,444.5,444.5,517.5,476.3,444.5,444.5,,,,
+Pancrustacea (non-Hexapoda),520,514,517,305.7,300.6,253.7,252.6,410,370,1.1,1.1,,,,
+Trilobita,541,524,532.5,538.6,538.4,445.6,441.6,541,541,366.6,347.7,,,,
+Echinodermata,564,538,551,525,520,505,495,535,535,488.8,444.3,540,540,539,525
+Crinoidea (Eucladida),450,438,444,372.8,349.5,295.6,287.6,450,448.6,275.3,275.3,449.8,449.7,432.3,427.3
+Echinoidea (Irregularia),254,220,237,171,170,160,150,170.2,170.1,148.6,148.6,196.4,196.4,181,168

@@ -1,0 +1,16 @@
+Clade,Extinction_event,Parameter,Data_type,Bound,Action,Older_Ma,Younger_Ma,PE_Ma,PE_check,Note
+Ammonoidea,end-Devoninan (Famennian),phenotypic_disparity,,offset,range,348,345,,PELT;SEG,"PELT offset is weaker than the first major offset, at 348-345 Ma; offset range 348-345 Ma"
+Ammonoidea,end-Devoninan (Famennian),taxonomic_diversity,,onset,range,355,350,,PELT;SEG,"Both methods miss the first peak, which is clear at the very start of the series; onset 355-350 Ma"
+Ammonoidea,end-Devoninan (Famennian),taxonomic_diversity,,offset,range,350,347,,PELT;SEG,"Both methods miss the first peak, which is clear at the very start of the series; offset 350-347 Ma"
+Ammonoidea,end-Devoninan (Frasnian),taxonomic_diversity,,onset,range,374,370,,PELT;SEG,SEG misses the first two peaks; the PELT point estimate approximates the first-peak onset but not its offset; onset 374-370 Ma
+Ammonoidea,end-Devoninan (Frasnian),taxonomic_diversity,,offset,range,370,360,,PELT;SEG,SEG misses the first two peaks and PELT misses the first-peak offset; offset 370-360 Ma
+Aves_crown,K-Pg,phenotypic_rate,continuous data (LMM),offset,SEG,,,,,Offset unclear due to gradual and smooth decrease; SEG offset used as it is more conservative (same trajectory as in the clade-origin analysis)
+Aves_crown,K-Pg,taxonomic_diversity,,onset,range,66,63,,PELT;SEG,"First peak starts at ~63 Ma, hard to detect with the 66 Ma cutoff (excludes the first data point); onset 66-63 Ma (same trajectory as in the clade-origin analysis)"
+Aves_crown,K-Pg,taxonomic_diversity,,offset,range,60,55,,PELT;SEG,Offset 60-55 Ma (same trajectory as in the clade-origin analysis)
+Crinoidea_Diplobathrida,end-Ordovician,taxonomic_diversity,,offset,range,438.6,420.9,,SEG,"PELT offset range lies well beyond the offset of the first peak, which SEG captures (the series declines from its first point); SEG's 95% MC range (438.7-327.0 Ma) narrowed to the first decline, 438.6-420.9 Ma (first SEG breakpoint)"
+Crinoidea_Eucladida,end-Ordovician,phenotypic_disparity,,onset,PELT,,,,,No offset; the wide PELT onset range is used to account for the increase until the plateau is reached
+Crinoidea_Eucladida,end-Devoninan (Famennian),phenotypic_rate,,onset,PELT,,,,,Too few data points for an accurate SEG fit; PELT used for onset and offset
+Crinoidea_Eucladida,end-Ordovician,taxonomic_diversity,,onset,PELT,,,,,SEG onset hard to detect due to smooth change; onset range follows PELT
+Dinosauria_early,end-Triassic,phenotypic_disparity,,offset,range,200,195,,SEG;PELT,"PELT misses the first major decline in disparity, partly picked up by the SEG point estimate; offset set to the adjusted SEG interval 200-195 Ma"
+Eurypterida,end-Ordovician,phenotypic_disparity,,offset,range,320,300,,SEG;PELT,"Onset correct by SEG; offset very subtle, so the PELT range is exceptionally wide (>100 Myr); range set to a 20-Myr interval around the SEG point estimate, 320-300 Ma"
+Eurypterida,end-Devoninan (Frasnian),taxonomic_diversity,,onset,range,355,322.7,,SEG,Onset range cannot be younger than the first ascending trajectory towards the first minor peak at 355 Ma; SEG onset range adjusted to 355-322.7 Ma (SEG point estimate 327.1 Ma)

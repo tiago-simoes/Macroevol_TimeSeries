@@ -1,0 +1,9 @@
+"series","k","ours_breakpoints_t","ours_rss","pwr_breakpoints_t","pwr_rss","pwr_valid_min3pts","ours_better_or_equal"
+"Archosauromorpha_stem_phenotypic_rate",1,"25.37",0.7499,"20.19",1.0969,TRUE,TRUE
+"Aves_stem_phenotypic_rate",2,"13.91;24.58",1.1023,"14.33;22.7",1.0707,FALSE,FALSE
+"Bivalvia_phenotypic_disparity",3,"29.9;42.15;66.81",9.0507,"28.11;40.82;66.64",11.392,TRUE,TRUE
+"Bivalvia_taxonomic_diversity",3,"33;42.15;69.18",436.49,"33.11;41.8;71.05",242.24,FALSE,FALSE
+"Crinoidea_Eucladida_taxonomic_diversity",3,"82.06;109.14;152.67",159.74,"86.55;107.21;152.6",156.04,FALSE,FALSE
+"Echinoidea_Irregularia_phenotypic_rate",3,"42.37;125.57;143.92",0.18751,"41.98;126.57;142.65",0.18706,FALSE,FALSE
+"Lepidosauria_phenotypic_rate_discrete_data",3,"132.27;142.31;159.26",39.255,"36.18;68.04;101.85",66.863,TRUE,TRUE
+"Tetrapoda_stem_taxonomic_diversity",2,"292.4;308.4",9273.9,"303.49;315.8",10304,FALSE,TRUE
