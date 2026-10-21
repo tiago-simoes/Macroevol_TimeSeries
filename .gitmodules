@@ -1,0 +1,3 @@
+[submodule "ImageDigitization_pipeline"]
+	path = ImageDigitization_pipeline
+	url = https://github.com/tiago-simoes/ImageDigitization_pipeline.git
