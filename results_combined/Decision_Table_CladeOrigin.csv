@@ -1,0 +1,53 @@
+Group,Clade,Parameter,Data_type,Agreement,ONSET_Best model,OFFSET_Best model
+vertebrates,Acanthomorpha,phenotypic_disparity,,offset differs,SEG,neither*
+vertebrates,Acanthomorpha,phenotypic_rate,,na (no data),na,na
+vertebrates,Acanthomorpha,taxonomic_diversity,,consistent,neither*,neither*
+vertebrates,Archosauromorpha_stem,phenotypic_disparity,,onset and offset differ,SEG,PELT
+vertebrates,Archosauromorpha_stem,phenotypic_rate,,consistent,SEG,PELT
+vertebrates,Archosauromorpha_stem,taxonomic_diversity,,offset differs,SEG,PELT
+vertebrates,Aves_crown,phenotypic_disparity,,onset differs,SEG,no offset
+vertebrates,Aves_crown,phenotypic_rate,continuous data (LMM),consistent,SEG,SEG*
+vertebrates,Aves_crown,phenotypic_rate,continuous data (GMM),offset differs,SEG,PELT
+vertebrates,Aves_crown,taxonomic_diversity,,consistent,neither*,neither*
+vertebrates,Aves_stem,phenotypic_disparity,,na (no data),na,na
+vertebrates,Aves_stem,phenotypic_rate,,onset and offset differ,SEG,PELT
+vertebrates,Aves_stem,taxonomic_diversity,,consistent,neither*,neither*
+invertebrates,Bivalvia,phenotypic_disparity,,onset differs,SEG,PELT
+invertebrates,Bivalvia,phenotypic_rate,,na (no data),na,na
+invertebrates,Bivalvia,taxonomic_diversity,,onset differs,SEG,PELT
+invertebrates,Crinoidea_Eucladida,phenotypic_disparity,,onset differs,SEG,no offset
+invertebrates,Crinoidea_Eucladida,phenotypic_rate,,offset differs,SEG,PELT
+invertebrates,Crinoidea_Eucladida,taxonomic_diversity,,consistent,PELT*,PELT
+vertebrates,Dinosauria_early,phenotypic_disparity,,onset and offset differ,SEG,no offset
+vertebrates,Dinosauria_early,phenotypic_rate,,onset and offset differ,SEG,PELT
+vertebrates,Dinosauria_early,taxonomic_diversity,PyRate,offset differs,SEG,PELT
+vertebrates,Dinosauria_early,taxonomic_diversity,FBDD,onset and offset differ,PELT*,PELT
+invertebrates,Echinodermata,phenotypic_disparity,,onset differs,SEG,PELT
+invertebrates,Echinodermata,phenotypic_rate,,consistent,neither*,neither*
+invertebrates,Echinodermata,taxonomic_diversity,,onset and offset differ,neither*,neither*
+invertebrates,Echinoidea_Irregularia,phenotypic_disparity,,onset differs,PELT*,no offset
+invertebrates,Echinoidea_Irregularia,phenotypic_rate,,offset differs,SEG,PELT
+invertebrates,Echinoidea_Irregularia,taxonomic_diversity,,onset differs,PELT*,PELT
+vertebrates,Lepidosauria,phenotypic_disparity,,onset differs,SEG,no offset
+vertebrates,Lepidosauria,phenotypic_rate,continuous data (GMM),offset differs,neither*,neither*
+vertebrates,Lepidosauria,phenotypic_rate,discrete data,onset and offset differ,SEG,SEG
+vertebrates,Lepidosauria,taxonomic_diversity,,consistent,PELT*,neither*
+vertebrates,Mammalia_early,phenotypic_disparity,,consistent,SEG,PELT
+vertebrates,Mammalia_early,phenotypic_rate,,onset and offset differ,SEG,PELT
+vertebrates,Mammalia_early,taxonomic_diversity,LTT,consistent,SEG,PELT
+vertebrates,Mammalia_early,taxonomic_diversity,BDD,offset differs,SEG,SEG*
+invertebrates,Pancrustacea,phenotypic_disparity,,onset and offset differ,SEG,SEG*
+invertebrates,Pancrustacea,phenotypic_rate,,na (no data),na,na
+invertebrates,Pancrustacea,taxonomic_diversity,,onset and offset differ,PELT*,PELT
+vertebrates,Placentalia,phenotypic_disparity,,onset differs,SEG*,no offset
+vertebrates,Placentalia,phenotypic_rate,,consistent,PELT*,neither*
+vertebrates,Placentalia,taxonomic_diversity,,onset and offset differ,SEG,no offset
+vertebrates,Tetrapoda_stem,phenotypic_disparity,,offset differs,no peak,no peak
+vertebrates,Tetrapoda_stem,phenotypic_rate,,onset differs,SEG,PELT*
+vertebrates,Tetrapoda_stem,taxonomic_diversity,,onset differs,PELT*,neither*
+vertebrates,Theropoda_non-avian,phenotypic_disparity,,onset and offset differ,SEG,SEG*
+vertebrates,Theropoda_non-avian,phenotypic_rate,,offset differs,SEG,PELT
+vertebrates,Theropoda_non-avian,taxonomic_diversity,,onset differs,SEG,PELT
+invertebrates,Trilobita,phenotypic_disparity,,onset and offset differ,SEG,PELT
+invertebrates,Trilobita,phenotypic_rate,,consistent,no peak,no peak
+invertebrates,Trilobita,taxonomic_diversity,,onset differs,SEG,PELT
